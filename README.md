@@ -31,13 +31,13 @@ Before the beginning of the analysis, a variety of checks were conducted for qua
 ## 📑 Insights
 <img src="https://github.com/AlexisShagyo/Images/blob/main/Top%20Sales.jpg" alt="Image" width="800" height="200">
 
-- For the top performing countries aside from the main branch in United Kingdom, the top 3 performing countries in trms of sales are Netherlands, Ireland and Germany. We can think of expanding our branch on these locations as there is a lot more potential to gain sales considering the big difference of revenue generated in United Kingdom compared to the next top performing countries.
+- In addition to our main branch in the United Kingdom, which achieved an impressive $7.8 million in sales, we see remarkable potential for growth in the Netherlands, Ireland, and Germany. There is significant potential to expand our operations in these countries, particularly considering the substantial revenue difference—the Netherlands, for example, has sales of $286,000. Expanding our branches in these locations could lead to increased sales opportunities.
 
-- Data shows that there are some months of the year where exceptional growth is witnessed, particularly on starting from months September, October and November. As for the reason why there is dwntrend when it comes to December, no conclusion can be brought to it as data from that month is still incomplete. This shows that the retail business have seasonality in sales which is on thelast for months of the year.
+- Data indicates that certain months of the year, particularly September, October, and November, experience exceptional growth. However, the decline observed in December remains unexplained, as the data for that month is still incomplete. This suggests that the retail business exhibits seasonality in sales, especially in the final months of the year.
 
-- The highest revenue generating customer only purchased 17% more than the 2nd highest which shows that the business is not relying only on a few customers to generate the revenue. The bargaining power of customers is low and the business is in a good position.
+- The highest revenue-generating customer purchased only 17% more than the second-highest, which shows that the business does not rely solely on a few customers for its revenue. This suggests that the bargaining power of customers is low, placing the business in a strong position.
 
-- Finally, the map chart shows that apart from the UK, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products.
+- Finally, the map chart shows that apart from the UK, countries such as Netherlands, Ireland, Germany, France, and Australia are generating high revenue and the company should invest more in these areas to increase demand for products.
 <br>
 
 <img src="https://github.com/AlexisShagyo/Images/blob/main/Lowest%20Sales.jpg" alt="Image" width="800" height="200">
