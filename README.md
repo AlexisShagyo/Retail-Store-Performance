@@ -29,7 +29,7 @@ Before the beginning of the analysis, a variety of checks were conducted for qua
 <br>
 
 ## 📑 Insights
-<img src="https://github.com/AlexisShagyo/Images/blob/main/Top%20Sales.jpg" alt="Image" width="800" height="220">
+<img src="https://github.com/AlexisShagyo/Images/blob/main/Top%20Sales.jpg" alt="Image" width="800" height="200">
 
 - For the top performing countries aside from the main branch in United Kingdom, the top 3 performing countries in trms of sales are Netherlands, Ireland and Germany. We can think of expanding our branch on these locations as there is a lot more potential to gain sales considering the big difference of revenue generated in United Kingdom compared to the next top performing countries.
 
@@ -40,7 +40,7 @@ Before the beginning of the analysis, a variety of checks were conducted for qua
 - Finally, the map chart shows that apart from the UK, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products.
 <br>
 
-<img src="https://github.com/AlexisShagyo/Images/blob/main/Lowest%20Sales.jpg" alt="Image" width="800" height="220">
+<img src="https://github.com/AlexisShagyo/Images/blob/main/Lowest%20Sales.jpg" alt="Image" width="800" height="200">
 
 - As for the expansion plans, it is recommended to look at the top 5 lowest performing countries in terms of sales. As the idea of expansion can take a lot of money, time, and effort, we could look into countries like South Africa, Czech Republic, Bahrain, and Saudi Arabia and investigate the factors why our products are not selling well in these markets. We may need to look at our marketing efforts as well, if we are spending  a large amount of money and not getting the target returns, we might as well consider halting or stopping our operations.
 <br>
