@@ -31,9 +31,9 @@ Before the beginning of the analysis, a variety of checks were conducted for qua
 ## 📑 Insights
 <img src="https://github.com/AlexisShagyo/Images/blob/main/Top%20Sales.jpg" alt="Image" width="800" height="200">
 
-- In addition to our main branch in the United Kingdom, which achieved an impressive $7.8 million in sales, we see remarkable potential for growth in the Netherlands, Ireland, and Germany. There is significant potential to expand our operations in these countries, particularly considering the substantial revenue difference—the Netherlands, for example, has sales of $286,000. Expanding our branches in these locations could lead to increased sales opportunities.
-
 - Data indicates that certain months of the year, particularly September, October, and November, experience exceptional growth. However, the decline observed in December remains unexplained, as the data for that month is still incomplete. This suggests that the retail business exhibits seasonality in sales, especially in the final months of the year.
+
+- In addition to our main branch in the United Kingdom, which achieved an impressive $7.8 million in sales, we see remarkable potential for growth in the Netherlands, Ireland, and Germany. There is significant potential to expand our operations in these countries, particularly considering the substantial revenue difference—the Netherlands, for example, has sales of $286,000. Expanding our branches in these locations could lead to increased sales opportunities.
 
 - The highest revenue-generating customer purchased only 17% more than the second-highest, which shows that the business does not rely solely on a few customers for its revenue. This suggests that the bargaining power of customers is low, placing the business in a strong position.
 
